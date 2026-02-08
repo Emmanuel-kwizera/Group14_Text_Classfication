@@ -38,10 +38,10 @@ Each model is evaluated across multiple embedding strategies to understand the i
 
 | Name | Model | Embeddings |
 |------|-------|------------|
-| **Your Name** | Logistic Regression | TF-IDF, Skip-gram, CBOW, FastText |
+| James | Logistic Regression | TF-IDF, Skip-gram, CBOW, FastText |
 | Emmanuel | LSTM | TF-IDF, Skip-gram, CBOW |
 | Hortance | RNN | TF-IDF, Skip-gram, CBOW |
-| **Team Member** | GRU | TF-IDF, Skip-gram, CBOW |
+| Kelia | GRU | TF-IDF, Skip-gram, CBOW |
 
 ## 📊 Dataset
 
@@ -313,7 +313,7 @@ tqdm>=4.65.0
 ## 📧 Contact
 
 For questions or collaboration:
-- **Group Lead**: j.akuei@alustudent.com
+- **Group Lead**: Emmanuel
 - **Repository** https://github.com/Emmanuel-kwizera/Group14_Text_Classfication
 
 ---

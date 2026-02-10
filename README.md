@@ -24,6 +24,7 @@ A comprehensive comparative analysis of traditional machine learning and deep le
 This project implements and compares four different classification models with multiple text embedding techniques:
 - **Traditional ML**: Logistic Regression (baseline)
 - **Deep Learning**: RNN, LSTM, and GRU architectures
+- **group contribution**: [Contribution](https://docs.google.com/spreadsheets/d/1h6u262-PhJLLl5QUbuaPHqzT2ZMNmtfbnUGnM3dvido/edit?usp=sharing)
 
 Each model is evaluated across multiple embedding strategies to understand the interaction between representation learning and model architecture in text classification tasks.
 
